@@ -7,10 +7,10 @@ I'm passionate about HTML & CSS
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...Building web projects with HTML & CSS 
 - 🌱 I’m currently learning ...HTML & CSS
 - 👯 I’m looking to collaborate on ...GitHub
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...Advanced CSS techniques and responsive web design 
 - 💬 Ask me about ...Web Development
 - 📫 How to reach me: ...mstf37184@gmail.com
 - 😄 Pronouns: ...She/her
